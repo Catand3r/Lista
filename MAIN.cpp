@@ -9,5 +9,5 @@ int main()
     list.push_back(20);
     int first = list.first();
     int last = list.last();
-    std::cout << first << " " << last << " " << isListEmpty << "\n";
+    std::cout << first << " " << last << " " << isListEmpty << ". Rozmiar listy wynosi: " << list.size() << "\n";
 }
