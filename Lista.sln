@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lista", "Lista.vcxproj", "{B677A3D0-BEBC-4ED9-9379-E285C31D8126}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "List-ut", "..\List-ut\List-ut.vcxproj", "{3542E3EA-872B-4AB7-94AB-0A8505EDF1FC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "List-ut", "List-ut\List-ut.vcxproj", "{3542E3EA-872B-4AB7-94AB-0A8505EDF1FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
