@@ -36,4 +36,4 @@ jobs:
     - name: Run Tests
       run: |
           cd \x64\Release\
-          ./Lista-ut.exe
+          ./List-ut.exe
