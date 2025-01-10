@@ -35,5 +35,5 @@ jobs:
       run: msbuild /m /p:Configuration=${{env.BUILD_CONFIGURATION}} ${{env.SOLUTION_FILE_PATH}}
     - name: Run Tests
       run: |
-          cd \x64\Release\
+          cd x64\Release
           ./List-ut.exe
